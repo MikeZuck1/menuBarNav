@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+}
+
+header .nav__menu {
+  margin-top: 2rem;
+}
+
+.title {
+    margin-top: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title h1 {
+    font-size: 4.5rem;
+}
+
+.paragraph__content {
+    margin-top: 5rem;
+}
+
+.paragraph {
+    color: #fff; 
+    font-size: 1.9rem;
+}
+
+.slide__carousel {
+    margin-top: 5rem;
+}
+
+.slide__carousel img {
+    border-radius: 6rem;
+    margin-bottom: 10rem;
+}
